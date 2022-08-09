@@ -1,7 +1,7 @@
 #<h1 align="center">Complete Network Socket Programming</h1>
 
 ### Description
-A program coded in `C++ language` using socket programming to illustrate complete network of `Chatting` or `Getting Ip Addresses` on internet. Full description of the project can be viewed [Here](https://github.com/SameetAsadullah/Complete-Network-Socket-Programming/blob/main/Project%20Statement.pdf).
+A program coded in `C++ language` using socket programming to illustrate complete network of `Chatting` or `Getting Ip Addresses` on internet using `DNS and Proxy-DNS Servers`. Full description of the project can be viewed [Here](https://github.com/SameetAsadullah/Complete-Network-Socket-Programming/blob/main/Project%20Statement.pdf).
 
 ### Topology
 <div align="center">
