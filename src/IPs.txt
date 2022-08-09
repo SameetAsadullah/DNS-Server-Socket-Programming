@@ -1,0 +1,5 @@
+www.google.com 8.8.8.8
+www.amazon.com 1.1.1.1
+www.daraz.pk 9.9.9.9
+www.stackoverflow.com 6.6.6.6
+www.coursera.com 5.5.5.5
